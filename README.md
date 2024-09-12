@@ -1,4 +1,5 @@
 # Flash-BASH
+![Flash Bash Logo](./images/logo.png?raw=true)
 Flash-BASH is a Raspberry Pi based tool that uses a multiplexer to "glitch" a target device into a privileged open shell.
 
 ## Usage
