@@ -2,6 +2,7 @@
 <div style="text-align: center;">
     <img src="./images/logo.png?raw=true" alt="Flash Bash Logo" width="350px">
 </div>
+
 Flash-BASH is a Raspberry Pi based tool that uses a multiplexer to "glitch" a target device into a privileged open shell.
 
 ## Usage
