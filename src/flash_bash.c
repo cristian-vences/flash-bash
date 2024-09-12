@@ -82,6 +82,7 @@ int main(void)
 	printf("################ #####*################*################*  #####      #####\n");
 
 	// Print versions
+	printf("\n****CHECKING VERSIONS*****\n\n");
 	version = gpioVersion(); 	//call for pigpio version
 	printf("Using pigpio version: %u\n", version);
 
@@ -168,7 +169,7 @@ int main(void)
 		}
 
 		// Get serial device from user
-		printf("Enter serial device descriptor:");
+		printf("Enter serial device descriptor: ");
 		scanf("%99s", device);
 		printf("Device descriptor = `%s`\n\n", device);
 
