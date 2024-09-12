@@ -6,10 +6,10 @@ Flash-BASH is a Raspberry Pi based tool that uses a multiplexer to "glitch" a ta
 See our blog post at https://www.riverloopsecurity.com/blog/2021/09/introducing-flash-bash/ for information on usage.
 
 ## Install/Compile
-The easiest way to use this tool without any tweaks is with a Raspberry Pi Model Type 3 (Model A+, B+, Pi Zero, Pi Zero W, Pi2B, Pi3B, Pi4B).
+The easiest way to use this tool without any tweaks is with a Raspberry Pi Type 3 (Model A+, B+, Pi Zero, Pi Zero W, Pi2B, Pi3B, Pi4B).
 However, with minor tweaks to the code, any Raspberry Pi, Arduino, or micro-controller should work fine.
 
-Secondly, this tool is based on the dependency pigpio which should be automatically installed on latest version of Raspberry Pi but can be installed with:
+Secondly, this tool is based on the dependency pigpio which should be automatically installed on latest version of Raspberry Pi OS but can be installed with:
 ```
 sudo apt-get install pigpio python-pigpio python3-pigpio
 ```
