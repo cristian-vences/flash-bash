@@ -1,5 +1,8 @@
 # Flash-BASH Pi HAT Files
-![Flash Bash Logo](../images/FlashBash.jpg?raw=true)
+<p align="center">
+    <img src="../images/FlashBash.jpg?raw=true" alt="Flash Bash Logo" width="500px">
+</p>
+
 Included are KiCAD 8.0.4 CAD files in the FlashBash.zip so that you can make modifications.
 
 Also included are ready-to-fab gerber files in FAB.zip.
